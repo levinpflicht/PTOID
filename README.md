@@ -1,7 +1,6 @@
 # PTOID - Personal-Transport-of-Important-Datapacks
 
-Lokale Dokumentenautomationsplattform
+Lokale, offline-fähige Dokumentenautomationsplattform mit AI-Unterstützung.
+Keine Cloud, keine externe Abhängigkeit. 100% Datenschutz.
 
-## System: Python + Electron + SQLite + AI
-
-## Lizenz: MIT
+Build-Pipeline, Whisper-Backend, OCR-Module, CI/CD: ✅
