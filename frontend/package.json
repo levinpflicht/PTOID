@@ -1,7 +1,29 @@
 {
   "name": "ptoid",
-  "version": "1.0.2",
-  "description": "Personal-Transport-of-Important-Datapacks",
+  "version": "1.0.4",
+  "description": "PTOID: Local-first document automation system with full offline AI processing (speech-to-text, OCR, document parsing, receipt extraction, and local NLP processing). 100% open-source and GDPR-compliant.",
+  "author": "Levin Pflicht",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/levinpflicht/PTOID"
+  },
+  "homepage": "https://github.com/levinpflicht/PTOID",
+  "bugs": {
+    "url": "https://github.com/levinpflicht/PTOID/issues"
+  },
+  "keywords": [
+    "local-ai",
+    "document-automation",
+    "OCR",
+    "speech-to-text",
+    "whisper",
+    "tesseract",
+    "invoice-processing",
+    "react",
+    "electron",
+    "open-source"
+  ],
   "main": "main.js",
   "scripts": {
     "start": "electron .",
