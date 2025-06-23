@@ -1,5 +1,5 @@
 from flask import Flask
-from app import ocr_module, stt_module, parsing_module
+from . import ocr_module, stt_module, parsing_module
 
 app = Flask(__name__)
 
